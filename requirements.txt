@@ -1,0 +1,4 @@
+gunicorn
+Flask-SQLAlchemy
+Flask-RESTful
+mysqlclient
